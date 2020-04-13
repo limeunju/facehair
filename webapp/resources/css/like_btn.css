@@ -1,0 +1,18 @@
+.likeBtn {
+	position: absolute;
+	position: fixed;
+	right: 30px;
+	bottom: 30px;
+}
+
+.btn-circle.btn-lg {
+	width: 50px;
+	height: 50px;
+	padding: 12px 14px;
+	font-size: 18px;
+	line-height: 1.33;
+	border-radius: 25px;
+	background-color: #ff666f;
+	border-color: #ff666f;
+	cursor: pointer;
+}
